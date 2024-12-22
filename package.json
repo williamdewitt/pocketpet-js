@@ -1,0 +1,17 @@
+{
+      "name": "tamagotchi-threejs-game",
+      "version": "1.0.0",
+      "private": true,
+      "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+      },
+      "dependencies": {
+        "three": "^0.152.2",
+        "lil-gui": "^0.17.0"
+      },
+      "devDependencies": {
+        "vite": "^4.2.0"
+      }
+    }
